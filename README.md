@@ -14,36 +14,39 @@ The time to decide is now.
 - some paper for your character sheet
 - at least one d6 per player
 - at least one d20 per player
+- (optional) a d4 for rolling stats
 
 ## Setup
 
 Roll 3d6 to determine who you character is; or, if you want to be some other combination, do it up.
 
 ##### Personality
-- Bible Thumper
-- Drug Dealer
-- Redneck
-- Rich Asshole
-- Retiree
-- Sexual Deviant
+1. Bible Thumper
+2. Drug Dealer
+3. Redneck
+4. Rich Asshole
+5. Retiree
+6. Sexual Deviant
 
 ##### Drug of Choice
-- Alcohol
-- Weed
-- Meth
-- Cocaine/Crack
-- Overeating
-- Jesus
+1. Alcohol
+2. Weed
+3. Meth
+4. Cocaine/Crack
+5. Overeating
+6. Jesus
 
 ##### Weapon of choice/proficiency
-- Automobile
-- Food
-- Bible
-- Improvised (something from the environment less than 50 lbs and not fastened down)
-- Exotic Pets
-- Talking Shit
+1. Automobile/motorized vehicle
+2. Food
+3. Bible
+4. Improvised (something from the environment less than 50 lbs and not fastened down)
+5. Exotic Pets
+6. Talking Shit
 
-Name your character, if you like.  Descriptions are good, detailed descriptions are better, but are not strictly required.  **NOTE:** if you roll a random character AND can find a Florida Man/Woman news article online that matches up with the character you rolled, you are granted one extra point to a single attribute of your choice.
+Name your character, if you like.  Descriptions are good, detailed descriptions are better, but are not strictly required.  
+
+**NOTE:** if you roll a random character AND can find a Florida Man/Woman news article online that matches up with the character you rolled, you are granted one extra point to a single attribute of your choice.
 
 ## Stats
 
