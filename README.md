@@ -43,12 +43,14 @@ Roll 3d6 to determine who you character is; or, if you want to be some other com
 - Pets
 - Words
 
-Name your character, if you like.  Descriptions are good, detailed descriptions are better, but are not strictly required.  Bonus points if you find a news article online that matches up with the character you rolled!
+Name your character, if you like.  Descriptions are good, detailed descriptions are better, but are not strictly required.  **NOTE:** if you roll a random character AND can find a Florida Man/Woman news article online that matches up with the character you rolled, you are granted one extra point to a single attribute of your choice.
 
 ## Stats
 
 ### Attributes:
 Attributes are values that affect actions a player can take during an interation or during combat.  All ability rolls are taken with a D20; the results are a combination of their baseline scores in each ability plus the d20 roll, compared to the difficulty class (DC) of the action in question.  The DC is assigned at the GM's discretion for world interations; in combat, this will be determined at the start of the interation based on the antagonist(s) in question.
+
+Your 4 basic attributes are assigned a value of 1-4; if you want to roll a d4 to assign them at random, you may do so; otherwise, assign one 4, one 3, one 2, and one 1.
 
 ##### Basic Attributes:
 - Attack: ability to determine if you can hit another being successfully
@@ -63,7 +65,10 @@ Toxicity is the primary stat for all Florida Men.  Every player starts at a base
 - For every **successful** ability roll (or any combat that the player wins), you lose one point of toxicity, as your Florida Man revels in his natural charisma and obvious superiority.  
 - If your toxicity reaches 10 points, you are inebriated, and must roll at disadvantage on all ability checks except attack.
 - If your toxicity reaches 15 points, you fall asleep, and must nap to bring your toxicity back down (1 point per hour removed).
-- Conversely, if you reach a toxicity of 0, the rest of the party must IMMEDIATELY turn on you and attack until you either fall unconcious, or partake in a Drug of Choice again.  If you escape, or if all members of the party fail to attack you successfully, you gain advantage on all rolls until a successful attack occurs, or you imbibe ANY Drug of Choice option (not just your own).
+- Conversely, if you reach a toxicity of 0, all currently concious members of the party must IMMEDIATELY turn on you and either:
+    - attack until you either fall unconcious, or 
+    - partake in a Drug of Choice again.  
+    - If you escape, or if all members of the party fail to attack you successfully, you gain advantage on all rolls until a successful attack occurs by a non-party member, or you imbibe ANY Drug of Choice option (not just your own).
 
 ## Gameplay/Rules
 
