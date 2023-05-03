@@ -15,27 +15,27 @@ The time to decide is now.
 Roll 3d6 to determine who you character is; or, if you want to be some other combination, do it up.
 
 ###### Personality
-Bible Thumper
-Drug Dealer
-Redneck
-Rich Asshole
-Retired
-???
+- Bible Thumper
+- Drug Dealer
+- Redneck
+- Rich Asshole
+- Retired
+- ???
 
 ###### Drug of choice
-Alcohol
-Weed
-Meth
-Cocaine/crack
-Heroin
-Jesus
+- Alcohol
+- Weed
+- Meth
+- Cocaine/crack
+- Overeating
+- Jesus
 
 ###### Weapon of choice/proficiency
-Automobile
-Food
-Bible
-Improvised (something from )
-Pet
-???
+- Automobile
+- Food
+- Bible
+- Improvised (something from the environment less than 50 lbs and not fastened down)
+- Pet
+- ???
 
 ** TO BE CONTINUED **
