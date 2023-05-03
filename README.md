@@ -24,7 +24,7 @@ Roll 3d6 to determine who you character is; or, if you want to be some other com
 - Drug Dealer
 - Redneck
 - Rich Asshole
-- Retired
+- Retiree
 - Sexual Deviant
 
 ##### Drug of Choice
