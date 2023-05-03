@@ -31,7 +31,7 @@ Roll 3d6 to determine who you character is; or, if you want to be some other com
 - Alcohol
 - Weed
 - Meth
-- Cocaine/crack
+- Cocaine/Crack
 - Overeating
 - Jesus
 
@@ -40,8 +40,8 @@ Roll 3d6 to determine who you character is; or, if you want to be some other com
 - Food
 - Bible
 - Improvised (something from the environment less than 50 lbs and not fastened down)
-- Pets
-- Words
+- Exotic Pets
+- Talking Shit
 
 Name your character, if you like.  Descriptions are good, detailed descriptions are better, but are not strictly required.  **NOTE:** if you roll a random character AND can find a Florida Man/Woman news article online that matches up with the character you rolled, you are granted one extra point to a single attribute of your choice.
 
