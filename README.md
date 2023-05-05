@@ -119,7 +119,7 @@ Sample:
 5. they were sucking on your toes as you woke up that morning
 6. drove your car into the water because 'Jesus told them to'
 
-Note: all of the above impediments are based on actual news stories we've found.  fucking florida man, right?
+Note: all of the above impediments are based on actual news stories we've found.  Fucking florida man, right?
 
 Happy gaming!
 
