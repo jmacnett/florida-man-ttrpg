@@ -80,7 +80,7 @@ Basic gameplay is like most TTRPGS; the GM will set the scene, and the player(s)
 However, if you do wish to have a more traditional combat experience, see the "Combat" addendum, below.
 
 ## Helper tables for GMs
-The below are suggestions to help you design a session of Florida Man quickly.  They are merely suggestions to help move things along; your own Florida Man stories can (and should) be used as well.  Finally, for an ongoing source of inspiration, visit the Florida Man news archives at [https://floridaman.pearlham.com/].
+The below are suggestions to help you design a session of Florida Man quickly.  They are merely suggestions to help move things along; your own Florida Man stories can (and should) be used as well.  Finally, for an ongoing source of inspiration, visit the Florida Man news archives at https://floridaman.pearlham.com/.
 
 #### Game over conditions
 Gameplay continues until any of the following occur (at the GM's discretion):
