@@ -14,7 +14,7 @@ The time to decide is now.
 - some paper for your character sheet
 - at least one d6 per player
 - at least one d20 per player
-- (optional) a d4 for rolling stats
+- (optional) a d4 for rolling stats and combat
 
 ## Setup
 
@@ -37,12 +37,12 @@ Roll 3d6 to determine who you character is; or, if you want to be some other com
 6. Jesus
 
 ##### Weapon of choice/proficiency
-1. Automobile/motorized vehicle
+1. Bare Knuckles
 2. Food
 3. Bible
-4. Improvised (something from the environment less than 50 lbs and not fastened down)
+4. Improvised
 5. Exotic Pets
-6. Talking Shit
+6. Automobile/motorized vehicle
 
 Name your character, if you like.  Descriptions are good, detailed descriptions are better, but are not strictly required.  
 
@@ -75,17 +75,102 @@ Toxicity is the primary stat for all Florida Men.  Every player starts at a base
 
 ## Gameplay/Rules
 
-Basic gameplay is like most TTRPGS; the GM will set the scene, and the player(s) will interact with NPCS as they attempt to escape Florida before the hurricane comes.
+Basic gameplay is like most TTRPGS; the GM will set the scene, and the player(s) will interact with NPCS as they attempt to escape Florida before the hurricane comes via roleplay as the story progresses.  If you want to run the entire game that way and do one-shot saving rolls for everything, that is perfectly fine.
 
-Gameplay continues until any of the following occur:
-- the players successfully escape Florida (success)
+However, if you do wish to have a more traditional combat experience, see the "Combat" addendum, below.
+
+## Helper tables for GMs
+The below are suggestions to help you design a session of Florida Man quickly.  They are merely suggestions to help move things along; your own Florida Man stories can (and should) be used as well.  Finally, for an ongoing source of inspiration, visit the Florida Man news archives at [https://floridaman.pearlham.com/].
+
+#### Game over conditions
+Gameplay continues until any of the following occur (at the GM's discretion):
+- all remaining alive players successfully escape Florida (success)
 - The hurricane arrives (failure)
-- the players all fall unconcious simultaneously (failure)
-- the players are all arrested simultaneously (failure)
+- all players either fall unconcious, have been killed, or have been arrested at the same time (failure)
 
-** TO BE CONTINUED **
+#### Impediment Generation tables
+If you need some inspiration, pull out a d6 and roll a few times to generate adversity!
 
-potentially pending:
-- common npc types (cops, gators, karens, other florida men, clones of ron desantis)
-- more detailed/involved combat?
-- 
+Sample:
+
+"The (descriptor) (instigator) impeded your progress when (impediment)".
+
+##### Table one: descriptors
+1. angry
+2. horny
+3. confused
+4. intoxicated
+5. hungry
+6. naked
+
+##### Table two: instigators
+1. neighbor/neighbor's wife
+2. rich asshole who lives across from you
+3. cop
+3. shoplifter
+5. drug addict
+6. Ron Desantis
+
+##### Table three: impediments
+1. threw a bible at you
+2. stole your jetski and attempted to flee to puerto rico
+3. found a WW2 hand grenade underground and brought it to a taco bell you were eating at
+4. robs you dressed as spider-man
+5. they were sucking on your toes as you woke up that morning
+6. drove your car into the water because 'Jesus told them to'
+
+Note: all of the above impediments are based on actual news stories we've found.  fucking florida man, right?
+
+Happy gaming!
+
+### Addendum 1: Combat
+Combat begins by all players rolling initiative; the GM will roll one initiative for all antagonists the party is set against, and all NPC antagonists will take their turns together (unless the GM wants to manage them individually).
+
+All player characters and NPCs are assumed to start out with 20 HP, and an "Armor Class" (AC) of 10.  There could be exceptions to this (cops with body armor, etc), but in general, we are all human, we are all very squishy, and most FM stories you'll find involve either standard hoodies or no clothes at all.  Naked characters have an AC of 5, in case anyone asks.
+
+##### Attack
+A successful Attack action will apply damage based on the "Weapon Of Choice" rules for your character, IF YOUR CHARACTER HAS THAT WEAPON TYPE AVAILABLE.  If not, all damage is a straight 1d4.  
+
+Note: if you have the "Bare Knuckles" proficiency, you are always equipped with your Weapon of Choice.
+
+###### Weapon Of Choice combat information:
+1. Bare Knuckles
+    - no attack modifer
+    - any use of objects as weapons results in a -3 to the attack roll
+    - 1d4 damage + 2
+2. Food
+    - 1d4 damage
+    - +3 to attack roll if the target is not aware of the perpetrator's attack action.
+3. Bible
+    - 1d4 damage 
+    - +1 to attack role if target is of a different ethnicity than your character
+4. Improvised
+    - description: something from the environment less than 50 lbs and not fastened down
+    - baseline 1d4 damage; add an additional 1d4 for every 10 lbs
+    - +3 to attack roll if 10 lbs or less
+    - +2 to attack roll if between 11 and 25 lbs
+    - +1 to attack roll if between 26 and 40 lbs
+    - straight attack roll if over 40 lbs
+    - -5 to attack roll if the implement is traditionally classified as a weapon (knives, guns, crossbows, etc)
+        - any failed attack roll with a traditional weapon does 1d6 damage to the wielder
+5. Exotic Pets
+    - pets have 10 HP
+    - 1d4 damage (player)
+    - baseline 1d4 damage for the pet (GM can grant higher if the animal is large or dangerous enough)
+    - +2 to attack rolls as long as the pet is up and well
+        - deploying a pet in a batter means the pet can be attacked as well
+        - if a pet drops below 2 hp, the player must roll a straight d20 plus their persuasion modifier.  If the result is lower than 10, the pet runs away.  If the result is a natural 1, the pet turns on their owner and will attack them once before attempting to run away.
+6. Automobile/motorized vehicle
+    - 3d6 damage 
+    - -6 to attack roll.  It's hard to hit someone with a car who's paying attention. Or is in a doorway.
+    - If the target sees you coming, they get a straight d20 roll.  Any result over 10 is a save, and you miss them.
+
+##### Avoidance
+You may choose to run away or hide during your turn, assuming there is a path of egress or enough cover to hide behind.  This is a 1d20 roll plus your Avoidance modifier, against a DC determined by the GM.
+
+If you successfully hide, you are effectively out of the fight unless an antagonist character notices you, and your turn will be skipped until you re-emerge or the fight ends.
+
+If you successfully run away from a fight, and you wish to re-enter it, you will need to spend one combat turn "coming back".  
+
+##### Resolution
+Combat continues in initiative order until either all adversaries are dealt with, or all players are rendered unconsious or dead.
